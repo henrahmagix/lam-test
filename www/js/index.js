@@ -3,7 +3,8 @@
     'use strict';
 
     var app = angular.module('lam-test', [
-        'ngRoute'
+        'ngRoute',
+        'ngTouch'
     ]);
 
     app.config(function appConfig ($routeProvider) {

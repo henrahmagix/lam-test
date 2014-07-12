@@ -3,3 +3,8 @@ body {
   background-color: white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+/* line 7, ../../sass/index.sass */
+button {
+  font-size: 48px;
+}
